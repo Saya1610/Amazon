@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class CareersPage {
-
+//careersPage
 	@FindBy (xpath = "//a[text()='View open jobs']")
 	private List<WebElement> viewOpenJobsBtn ; 
 	
